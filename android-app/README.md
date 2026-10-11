@@ -1,3 +1,3 @@
 INNER AWAKENING
-Android Demo App
+Android App
 Version 1.0
